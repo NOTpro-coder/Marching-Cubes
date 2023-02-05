@@ -1,0 +1,8 @@
+Logs/
+UserSettings/
+.vscode/
+Marching Cubes.sln
+Assembly-CSharp.csproj
+Library/
+Temp/
+obj/
